@@ -1,0 +1,4 @@
+name: backups
+version: 1.0
+author: Infran
+main: br.com.infran.backups.BackupsPlugin
